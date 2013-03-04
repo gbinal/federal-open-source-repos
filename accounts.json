@@ -1,0 +1,42 @@
+{
+    "page_count": 1,
+    "total_items": 20,
+    "page_number": 1,
+    "accounts": [{
+        "service_url": "http://github.com/cfpb",
+        "verified": true,
+        "service_id": "github",
+        "account": "cfpb",
+        "details_url": "http://registry.usa.gov/accounts/github/cfpb",
+        "agencies": [{
+            "agency_id": "federalreserve",
+            "agency_name": "Federal Reserve System",
+            "agency_url": "http://www.federalreserve.gov"
+        }],
+        "organization": "Consumer Financial Protection Bureau"
+    }, {
+        "service_url": "http://github.com/EducationDataInitiative",
+        "verified": true,
+        "service_id": "github",
+        "account": "EducationDataInitiative",
+        "details_url": "http://registry.usa.gov/accounts/github/EducationDataInitiative",
+        "agencies": [{
+            "agency_id": "ed",
+            "agency_name": "Department of Education (ED)",
+            "agency_url": "http://www.ed.gov"
+        }],
+        "organization": "Department of Education"
+    }, {
+        "service_url": "http://github.com/whitehouse",
+        "verified": true,
+        "service_id": "github",
+        "account": "whitehouse",
+        "details_url": "http://registry.usa.gov/accounts/github/whitehouse",
+        "agencies": [{
+            "agency_id": "eop",
+            "agency_name": "Executive Office of the President (EOP)",
+            "agency_url": "http://www.whitehouse.gov"
+        }],
+        "organization": "White House"
+    }]
+}
