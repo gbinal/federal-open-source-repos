@@ -1,0 +1,42 @@
+? ({
+    "page_count": 1,
+    "total_items": 51,
+    "page_number": 1,
+    "accounts": [{
+        "service_url": "http://github.com/18f",
+        "verified": true,
+        "service_id": "github",
+        "account": "18f",
+        "details_url": "http://registry.usa.gov/accounts/github/18f",
+        "agencies": [{
+            "agency_id": "gsa",
+            "agency_name": "General Services Administration (GSA)",
+            "agency_url": "http://www.gsa.gov"
+        }],
+        "organization": "18F"
+    }, {
+        "service_url": "http://github.com/adlnet",
+        "verified": true,
+        "service_id": "github",
+        "account": "adlnet",
+        "details_url": "http://registry.usa.gov/accounts/github/adlnet",
+        "agencies": [{
+            "agency_id": "defense",
+            "agency_name": "Department of Defense (DOD)",
+            "agency_url": "http://www.defense.gov"
+        }],
+        "organization": "Advanced Distributed Learning Network"
+    }, {
+        "service_url": "http://github.com/cfpb",
+        "verified": true,
+        "service_id": "github",
+        "account": "cfpb",
+        "details_url": "http://registry.usa.gov/accounts/github/cfpb",
+        "agencies": [{
+            "agency_id": "federalreserve",
+            "agency_name": "Federal Reserve System",
+            "agency_url": "http://www.federalreserve.gov"
+        }],
+        "organization": "Consumer Financial Protection Bureau"
+    }]
+})
